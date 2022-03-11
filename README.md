@@ -1,10 +1,10 @@
-#RISC-V Multiciclo
+# RISC-V Multiciclo
 
 Artefatos codificados por Luiz Carlos Schonarth Junior, matrícula 19/0055171, UnB - Universidade de Brasília
 
-##Montando e executando código no terminal
+## Montando e executando código no terminal
 
-###Pré-requisitos para executar no terminal
+### Pré-requisitos para executar no terminal
 - Sistema operacional Unix.
 - Pacote `ghdl` para análise, elaboração e execução do código.
 - Pacote `gtkwave` para visualização da forma de onda dos sinais do código.
@@ -25,7 +25,7 @@ $ gtkwave RiscV.vcd
 
 ```
 
-##Montando e executando código no Modelsim
+## Montando e executando código no Modelsim
 
 Mude o diretório de trabalho no Modelsim para o diretório raiz do projeto.
 
