@@ -12,6 +12,7 @@ Artefatos codificados por Luiz Carlos Schonarth Junior, matrícula 19/0055171, U
 Em um terminal, mude para o diretório de trabalho, onde se econtram as pastas `packages`, `src` e `test`, e execute:
 
 ```
+$ mkdir build
 $ ghdl -a --workdir=./build -fsynopsys packages/* src/* test/RiscV_tb.vhd
 $ ghdl elab-run --workdir=./build -fsynopsys RiscV_tb
 ```
