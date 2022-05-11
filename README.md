@@ -23,7 +23,6 @@ execute os comandos acima e execute também:
 ```
 $ ghdl elab-run --workdir=./build -fsynopsys RiscV_tb --vcd=RiscV.vcd
 $ gtkwave RiscV.vcd
-
 ```
 
 ## Montando e executando código no Modelsim
